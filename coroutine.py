@@ -5,6 +5,8 @@ import time
 #feature1
 #--no-ff is argu for merge
 #tesing bug
+#--pull--testing--
+
 def consumer():
     r = ''
     while True:
