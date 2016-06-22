@@ -3,6 +3,7 @@ import time
 #testing
 #new branch
 #feature1
+#--no-ff is argu for merge
 def consumer():
     r = ''
     while True:
